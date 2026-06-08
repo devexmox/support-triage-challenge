@@ -1,0 +1,86 @@
+[
+  {
+    "id": "T-1001",
+    "channel": "email",
+    "subject": "Why hasn't my goal been rewarded?",
+    "body": "Hi, I completed the goal for the banking app 3 days ago (reached the required level) but I still haven't received my coins. The goal page said it would credit. My customer number is C-552 and my email is player552@mail.com. Can you check?",
+    "customer": { "id": "C-552", "email": "player552@mail.com", "locale": "en-US" }
+  },
+  {
+    "id": "T-1002",
+    "channel": "in_app",
+    "subject": "Goal not credited",
+    "body": "I finished the offer exactly as described and nothing was credited. This is unfair, I did everything right. Customer number C-118.",
+    "customer": { "id": "C-118", "email": "user118@mail.com", "locale": "en-GB" }
+  },
+  {
+    "id": "T-1003",
+    "channel": "in_app",
+    "subject": "Didn't get my reward for the game",
+    "body": "I installed the game and played but my goal didn't track. Customer no. C-274. What went wrong?",
+    "customer": { "id": "C-274", "email": "spieler274@mail.de", "locale": "de-DE" }
+  },
+  {
+    "id": "T-1004",
+    "channel": "email",
+    "subject": "Payout taking forever",
+    "body": "I requested a payout 4 days ago to my PayPal and it still hasn't arrived. What's happening? Customer number C-661, email c661@mail.com.",
+    "customer": { "id": "C-661", "email": "c661@mail.com", "locale": "en-US" }
+  },
+  {
+    "id": "T-1005",
+    "channel": "in_app",
+    "subject": "How long do payouts usually take?",
+    "body": "Just a general question, how long does it normally take to receive a payout after requesting it? Customer C-789.",
+    "customer": { "id": "C-789", "email": "c789@mail.com", "locale": "en-AU" }
+  },
+  {
+    "id": "T-1006",
+    "channel": "email",
+    "subject": "STILL waiting for my money",
+    "body": "This is the third time I'm writing. I requested my payout almost a week ago and nothing. Either send my money or I'm reporting you. Customer number C-205.",
+    "customer": { "id": "C-205", "email": "c205@mail.com", "locale": "en-US" }
+  },
+  {
+    "id": "T-1007",
+    "channel": "email",
+    "subject": "My account was deactivated - please help",
+    "body": "I tried to log in today and my account is deactivated. I don't understand why. Can you tell me what happened and reactivate it? Customer number C-410, email c410@mail.com.",
+    "customer": { "id": "C-410", "email": "c410@mail.com", "locale": "en-US" }
+  },
+  {
+    "id": "T-1008",
+    "channel": "email",
+    "subject": "Account deactivated but I am NOT a fraudster",
+    "body": "My account got deactivated and I have done nothing wrong. I am a real user and I have not cheated. This is completely unfair, I want my account back immediately. Customer no. C-846.",
+    "customer": { "id": "C-846", "email": "c846@mail.de", "locale": "de-DE" }
+  },
+  {
+    "id": "T-1009",
+    "channel": "in_app",
+    "subject": "Can't log in after password reset",
+    "body": "I reset my password and now it keeps saying invalid credentials. Customer C-337. Please help, I'm locked out.",
+    "customer": { "id": "C-337", "email": "c337@mail.fr", "locale": "fr-FR" }
+  },
+  {
+    "id": "T-1010",
+    "channel": "in_app",
+    "subject": "thanks!",
+    "body": "just wanted to say the new payout speed is great, got my money fast this time. keep it up!",
+    "customer": { "id": "C-512", "email": "c512@mail.com", "locale": "en-US" }
+  },
+  {
+    "id": "T-1011",
+    "channel": "email",
+    "subject": "How does goal tracking work?",
+    "body": "I'm new here. What do I need to do so my goals actually track and get rewarded? I don't want to miss out. Customer C-159.",
+    "customer": { "id": "C-159", "email": "c159@mail.com", "locale": "en-US" }
+  },
+  {
+    "id": "T-1012",
+    "channel": "email",
+    "subject": "GDPR data deletion request",
+    "body": "Under GDPR I am requesting that you delete all personal data you hold about me and confirm in writing once done. Customer number C-901.",
+    "customer": { "id": "C-901", "email": "c901@mail.de", "locale": "de-DE" }
+  }
+]

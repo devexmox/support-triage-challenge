@@ -1,0 +1,58 @@
+[
+  {
+    "id": "KB-001",
+    "title": "Why hasn't my goal been rewarded yet?",
+    "url": "https://help.example.com/articles/goal-not-rewarded",
+    "tags": ["goal", "reward", "offer", "coins", "tracking", "credit"],
+    "body": "Most goals credit within minutes, but some advertisers take up to 7 days to confirm completion. Make sure you completed every required step. If 7 days have passed and your goal still hasn't credited, contact support with your customer number and the email on your account so we can open a manual investigation with the advertiser. We cannot guarantee a reward if the advertiser does not confirm the completion."
+  },
+  {
+    "id": "KB-002",
+    "title": "How long do payouts take?",
+    "url": "https://help.example.com/articles/payout-times",
+    "tags": ["payout", "payment", "withdraw", "paypal", "bank transfer", "money"],
+    "body": "After you request a payout it is usually sent within 1-3 business days. Payouts are processed by third-party payment providers (for example PayPal or your bank), and on their side it can occasionally take longer, especially around weekends or for first-time payouts that need extra verification. If your payout is still not received after 5 business days, contact us with your customer number and we will follow up with the payment provider on your behalf."
+  },
+  {
+    "id": "KB-003",
+    "title": "My account was deactivated — what can I do?",
+    "url": "https://help.example.com/articles/account-deactivated",
+    "tags": ["account", "deactivated", "suspended", "appeal", "reactivate", "banned"],
+    "body": "Accounts may be deactivated following a review of account activity. For security reasons we are not always able to share the specific details behind a review. If you believe your account was deactivated in error, you can request a review by replying with your customer number and the email on your account. Our team will re-examine the account and respond. Please note that submitting an appeal does not guarantee reactivation."
+  },
+  {
+    "id": "KB-004",
+    "title": "Resetting your password and fixing login problems",
+    "url": "https://help.example.com/articles/reset-password",
+    "tags": ["login", "password", "credentials", "locked out", "sign in"],
+    "body": "If you cannot log in after resetting your password, make sure you are using the newest password and that Caps Lock is off. After 5 failed attempts the account is locked for 30 minutes. You can request a fresh reset link from the login screen; links expire after 1 hour. If you are still locked out after the cooldown, contact support with your customer number and we can help."
+  },
+  {
+    "id": "KB-005",
+    "title": "Common reasons a goal doesn't track",
+    "url": "https://help.example.com/articles/goal-tracking-tips",
+    "tags": ["goal", "tracking", "tips", "vpn", "steps", "requirements", "how to"],
+    "body": "To make sure your goals track: start the offer from within our app, complete every step listed in the goal exactly, and finish within the stated time. Do not use a VPN, emulator, or more than one account, as this prevents tracking and may affect your account. If a goal asks you to reach a level or spend time in an app, make sure you fully meet that requirement before expecting a reward."
+  },
+  {
+    "id": "KB-006",
+    "title": "Setting or changing your payout method",
+    "url": "https://help.example.com/articles/payout-method",
+    "tags": ["payout", "method", "settings", "paypal", "bank"],
+    "body": "Go to Settings > Payouts > Payout Method to choose between PayPal and bank transfer. Changes apply to your next payout; a payout already in progress will use the previous method. Bank transfers require verifying your details, which can take 1-2 business days."
+  },
+  {
+    "id": "KB-007",
+    "title": "Account security and unauthorized access",
+    "url": "https://help.example.com/articles/account-security",
+    "tags": ["security", "hacked", "unauthorized", "2fa", "stolen"],
+    "body": "If you believe your account was accessed without authorization, we will lock the account immediately to prevent further activity and our team will investigate. Enable two-factor authentication in Settings > Security to protect your account."
+  },
+  {
+    "id": "KB-008",
+    "title": "Submitting a GDPR data request",
+    "url": "https://help.example.com/articles/gdpr",
+    "tags": ["privacy", "gdpr", "data deletion", "legal", "personal data"],
+    "body": "EU users can request a copy or deletion of their personal data. Requests are handled by our privacy team and completed within 30 days as required by GDPR, and we confirm completion in writing. Some data must be retained for legal and financial compliance even after a deletion request."
+  }
+]

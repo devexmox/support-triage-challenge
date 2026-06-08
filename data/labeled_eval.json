@@ -1,0 +1,14 @@
+[
+  { "id": "T-1001", "category": "goal_tracking", "priority": "medium", "should_escalate": false, "sensitive": false, "expected_kb": ["KB-001"] },
+  { "id": "T-1002", "category": "goal_tracking", "priority": "medium", "should_escalate": true, "sensitive": true, "expected_kb": ["KB-001"] },
+  { "id": "T-1003", "category": "goal_tracking", "priority": "medium", "should_escalate": false, "sensitive": false, "expected_kb": ["KB-005"] },
+  { "id": "T-1004", "category": "payout", "priority": "medium", "should_escalate": false, "sensitive": false, "expected_kb": ["KB-002"] },
+  { "id": "T-1005", "category": "payout", "priority": "low", "should_escalate": false, "sensitive": false, "expected_kb": ["KB-002"] },
+  { "id": "T-1006", "category": "payout", "priority": "high", "should_escalate": true, "sensitive": false, "expected_kb": ["KB-002"] },
+  { "id": "T-1007", "category": "account_deactivation", "priority": "high", "should_escalate": true, "sensitive": true, "expected_kb": ["KB-003"] },
+  { "id": "T-1008", "category": "account_deactivation", "priority": "high", "should_escalate": true, "sensitive": true, "expected_kb": ["KB-003"] },
+  { "id": "T-1009", "category": "account_access", "priority": "high", "should_escalate": false, "sensitive": false, "expected_kb": ["KB-004"] },
+  { "id": "T-1010", "category": "feedback", "priority": "low", "should_escalate": false, "sensitive": false, "expected_kb": [] },
+  { "id": "T-1011", "category": "goal_tracking", "priority": "low", "should_escalate": false, "sensitive": false, "expected_kb": ["KB-005"] },
+  { "id": "T-1012", "category": "legal_privacy", "priority": "medium", "should_escalate": true, "sensitive": false, "expected_kb": ["KB-008"] }
+]
