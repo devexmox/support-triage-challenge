@@ -7,7 +7,7 @@ This is a Python support triage exercise. Source code lives in `src/`:
 loading, search, and mock backend helpers, and `models.py` contains Pydantic
 model stubs. JSON fixtures are in `data/`: tickets, knowledge-base articles,
 and labeled evaluation data. Tests live in `tests/`, starting with
-`tests/test_smoke.py`. Interview-only reference material is in `interviewer/`.
+`tests/test_smoke.py`.
 
 ## Build, Test, and Development Commands
 
@@ -44,9 +44,9 @@ characters and wrap the body at 72 characters.
 feat(EX-0000): add triage validation
 ```
 
-Create merge requests with `glab`, target `master`, assign to `me`, and use
-the repository's reviewer rules. Include a short description, linked issue or
-ticket when available, and test results.
+Open pull requests against `main` and use the repository's reviewer rules.
+Include a short description, linked issue or ticket when available, and test
+results.
 
 ## Security & Configuration Tips
 
