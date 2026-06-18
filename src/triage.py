@@ -29,8 +29,7 @@ def triage_ticket(ticket: dict):
         the customer number / email mentioned, etc.). Validate it.
       - Decide how you want to constrain the model's output.
 
-    Note: customers only ever give a customer number (C-XXX) or their email —
-    there are no transaction ids. Extract those.
+    Note: customers only ever give a customer number (C-XXX) or their email
     """
     raise NotImplementedError
 

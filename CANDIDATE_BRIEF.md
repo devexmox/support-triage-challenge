@@ -15,7 +15,7 @@ We want an **agent that triages each ticket and drafts a first-response** for a 
 
 You've been given a small scaffold (`README.md` explains the layout): sample tickets in `data/tickets.json`, help-center articles in `data/kb_articles.json`, and helpers in `src/kb.py`. These mock files stand in for our real tickets and Zendesk articles.
 
-**Important about identifiers:** customers can only ever give us their **customer number** (format `C-XXX`) or the **email** on their account. There are no order/transaction numbers. The provided mock backend (`src/kb.py`) is keyed by customer.
+**Important about identifiers:** customers can only ever give us their **customer number** (format `C-XXX`) or the **email** on their account. The provided mock backend (`src/kb.py`) is keyed by customer.
 
 We don't expect you to finish everything. **Get Part 1 working end-to-end first**, then go as far as you can. Talk us through your thinking as you go.
 
