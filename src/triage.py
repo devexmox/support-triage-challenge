@@ -15,8 +15,10 @@ from src.kb import load_tickets, search_kb
 
 load_dotenv()
 
-MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
-client = OpenAI()  # reads OPENAI_API_KEY from the environment
+MODEL = os.getenv("OPENAI_MODEL", "openai.gpt-oss-120b-1:0")
+# Points at the AWS Bedrock OpenAI-compatible endpoint (OPENAI_BASE_URL).
+# Reads OPENAI_API_KEY / OPENAI_BASE_URL from the environment.
+client = OpenAI()
 
 
 # --- Part 1: classify + extract -------------------------------------------
