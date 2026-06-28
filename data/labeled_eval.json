@@ -10,5 +10,6 @@
   { "id": "T-1009", "category": "account_access", "priority": "high", "should_escalate": false, "sensitive": false, "expected_kb": ["KB-004"] },
   { "id": "T-1010", "category": "feedback", "priority": "low", "should_escalate": false, "sensitive": false, "expected_kb": [] },
   { "id": "T-1011", "category": "goal_tracking", "priority": "low", "should_escalate": false, "sensitive": false, "expected_kb": ["KB-005"] },
-  { "id": "T-1012", "category": "legal_privacy", "priority": "medium", "should_escalate": true, "sensitive": false, "expected_kb": ["KB-008"] }
+  { "id": "T-1012", "category": "legal_privacy", "priority": "medium", "should_escalate": true, "sensitive": false, "expected_kb": ["KB-008"] },
+  { "id": "T-1013", "category": "goal_tracking", "priority": "high", "should_escalate": true, "sensitive": true, "expected_kb": ["KB-001"] }
 ]

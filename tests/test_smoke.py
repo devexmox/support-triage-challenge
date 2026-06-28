@@ -17,7 +17,7 @@ from src.kb import (
 
 def test_tickets_load():
     tickets = load_tickets()
-    assert len(tickets) == 12
+    assert len(tickets) == 13
     assert all("body" in t and "id" in t for t in tickets)
 
 
