@@ -142,6 +142,12 @@ _CUSTOMERS = {
         "goal": None,
         "payout": None,
     },
+    "C-633": {
+        "email": "c633@mail.com",
+        "account": "active",
+        "goal": {"state": "rejected", "reason": "fraud_flagged"},
+        "payout": None,
+    },
 }
 
 _EMAIL_INDEX = {v["email"].lower(): cid for cid, v in _CUSTOMERS.items()}
